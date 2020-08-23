@@ -1,0 +1,8 @@
+[package]
+name = "mpris"
+version = "0.1.0"
+authors = ["Natsu Kagami <natsukagami@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mpris = "2.0.0-rc2"

@@ -1,0 +1,16 @@
+{
+  "cSpell.words": [
+    "mpris",
+    "sarasa"
+  ],
+  "cSpell.ignorePaths": [
+    "**/package-lock.json",
+    "**/node_modules/**",
+    "**/vscode-extension/**",
+    "**/.git/**",
+    ".vscode",
+    "typings",
+    "target/**",
+    "Cargo.lock"
+  ]
+}
